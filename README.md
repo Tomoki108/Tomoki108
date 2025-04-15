@@ -7,8 +7,6 @@ I'm Tomoki Nagata, SWE living in Tokyo. Love backend dev and AtCoder.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tomoki108&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tomoki108&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Tech Blog
 https://zenn.dev/shinonome81
 
