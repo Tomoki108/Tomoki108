@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tomoki Nagata, SWE live in Tokyo. Love backend dev and AtCoder. 
+I'm Tomoki Nagata, SWE living in Tokyo. Love backend dev and AtCoder. 
 
 ## GitHub Status
 <p align="left"> 
