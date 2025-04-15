@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tomoki Nagata, SWE lived in Tokyo. Love Backend dev and AtCoder. 
+I'm Tomoki Nagata, SWE live in Tokyo. Love backend dev and AtCoder. 
 
 ## GitHub Status
 <p align="left"> 
@@ -11,6 +11,13 @@ I'm Tomoki Nagata, SWE lived in Tokyo. Love Backend dev and AtCoder.
 
 ## Tech Blog
 https://zenn.dev/shinonome81
+
+## AtCoder
+
+Algo: 🍀
+
+https://atcoder.jp/users/tomoki1008
+
 
 <!--
 **Tomoki108/Tomoki108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
